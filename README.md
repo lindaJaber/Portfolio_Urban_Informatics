@@ -2,4 +2,4 @@
 
 Framework for these projects is set by Professor Federica Bianco
 
-Solutions are done by me
+Code is written by me
